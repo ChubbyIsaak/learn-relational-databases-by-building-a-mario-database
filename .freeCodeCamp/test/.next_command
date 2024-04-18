@@ -41,3 +41,4 @@ __vsc_prompt_cmd_original
 psql --username=freecodecamp --dbname=postgres
 clear
 psql --username=freecodecamp --dbname=postgres
+psql --username=freecodecamp --dbname=postgres
