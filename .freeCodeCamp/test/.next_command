@@ -70,3 +70,4 @@ git add *
 git commit -m "Completed Course"
 git push
 git add *
+git commit -m "Completed Course"
